@@ -60,3 +60,8 @@ tattoo-08: https://images.unsplash.com/photo-1542727365-19732a80dcfd
 tattoo-09: https://images.unsplash.com/photo-1709477542153-5bedab2b5657
 tattoo-10: https://images.unsplash.com/photo-1654374504608-67c4cfe65fca
 tattoo-11: https://images.unsplash.com/photo-1654375078795-7229b6458d25
+hair-kristas: https://images.unsplash.com/photo-1560869713-7d0a29430803
+hair-kevin: https://images.unsplash.com/photo-1769029257460-7052dc5c1731
+hair-coco: https://images.unsplash.com/photo-1734111719430-fe4a3973f8af
+hair-caviar: https://images.unsplash.com/photo-1619218533116-f050e7d91d91
+hair-style: https://images.unsplash.com/photo-1580618672591-eb180b1a973f
